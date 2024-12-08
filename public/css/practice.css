@@ -1,0 +1,80 @@
+/* 全体の背景調整 */
+body {
+    background: linear-gradient(to bottom right, #f0f4f8, #d9e6f6);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* 問題表示エリア */
+.question-box {
+    background: #fff;
+    padding: 20px;
+    margin: 15px auto;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 700px;
+}
+
+.question-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* 質問テキスト */
+.question-box p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* 選択肢リスト */
+ul {
+    list-style: none; /* ●を除去 */
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 12px;
+}
+
+input[type="radio"] {
+    transform: scale(1.2);
+    margin-right: 8px;
+    accent-color: #007bff; /* ラジオボタンの色 */
+}
+
+label {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* モダンな送信ボタン */
+#submit-btn {
+    display: inline-block;
+    background: linear-gradient(90deg, #007bff, #00c6ff);
+    color: #fff;
+    padding: 14px 24px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+#submit-btn:hover {
+    background: linear-gradient(90deg, #0056b3, #0090cc);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    transform: translateY(-3px);
+}
+
+#submit-btn:active {
+    transform: translateY(1px);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+}

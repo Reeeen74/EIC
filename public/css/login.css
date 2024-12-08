@@ -1,0 +1,107 @@
+/* 全体スタイル */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px 30px;
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button.login-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+button.login-btn:hover {
+    background-color: #45a049;
+}
+
+.register-link p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+}
+
+button.register-btn {
+    background-color: #2196F3;
+    color: white;
+    margin-top: 10px;
+}
+
+button.register-btn:hover {
+    background-color: #1e87e5;
+}
+
+
+/* 成功メッセージのスタイル */
+.success-message {
+    display: none; /* 初期は非表示 */
+    opacity: 0;
+    color: #fff;
+    background-color: #28a745; /* 成功の緑色 */
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    animation: fadeIn 1.5s forwards; /* アニメーション適用 */
+}
+
+/* フェードインアニメーション */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px); /* 上からスライド */
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

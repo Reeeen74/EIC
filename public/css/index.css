@@ -1,0 +1,40 @@
+/* index.css */
+
+/* トップページのセクションスタイル */
+main {
+    padding: 20px 40px;
+}
+
+section {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+section p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.start-btn {
+    background: var(--button-color);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.start-btn:hover {
+    background: var(--button-hover-color);
+}

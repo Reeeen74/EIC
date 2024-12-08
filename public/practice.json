@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "question": "The report __________ by the manager yesterday includes detailed sales figures.",
+        "options": ["prepares", "prepared", "preparing", "was prepared"],
+        "answer": "prepared",
+        "explanation": "過去分詞「prepared」は受動態を正しく形成し、レポートがマネージャーによって作成されたことを示しています。"
+    },
+    {
+        "id": 2,
+        "question": "Employees are encouraged to submit their feedback __________ the end of the month.",
+        "options": ["on", "by", "at", "in"],
+        "answer": "by",
+        "explanation": "「by」は締切を示す正しい前置詞です。"
+    },
+    {
+        "id": 3,
+        "question": "The new software update __________ users to customize their dashboard more easily.",
+        "options": ["allow", "allows", "allowing", "allowed"],
+        "answer": "allows",
+        "explanation": "「allows」は単数主語「update」と現在形で一致します。"
+    },
+    {
+        "id": 4,
+        "question": "Our office will remain closed __________ the national holiday.",
+        "options": ["during", "for", "since", "until"],
+        "answer": "during",
+        "explanation": "「during」は、祝日などの期間を示すために使われます。"
+    },
+    {
+        "id": 5,
+        "question": "The company __________ its best-selling product due to high demand.",
+        "options": ["restocks", "restocked", "will restock", "has restocking"],
+        "answer": "will restock",
+        "explanation": "未来形「will restock」は、計画された行動を示します。"
+    },
+    {
+        "id": 6,
+        "question": "The project manager assigned tasks to each team member __________ the meeting.",
+        "options": ["through", "at", "during", "of"],
+        "answer": "during",
+        "explanation": "「during」は、会議中にタスクが割り当てられたことを示します。"
+    },
+    {
+        "id": 7,
+        "question": "The CEO is planning to visit the overseas branch next month, __________?",
+        "options": ["doesn’t he", "does he", "isn’t he", "is he"],
+        "answer": "isn’t he",
+        "explanation": "「isn’t he」は、肯定文に対する正しい付加疑問文を形成します。"
+    },
+    {
+        "id": 8,
+        "question": "After __________ the application, please wait for a confirmation email.",
+        "options": ["submitting", "submit", "submits", "submitted"],
+        "answer": "submitting",
+        "explanation": "「after」の後には完了した動作を示す動名詞「submitting」が使われます。"
+    },
+    {
+        "id": 9,
+        "question": "The company __________ additional staff to handle the increase in workload.",
+        "options": ["hired", "hiring", "hires", "has hired"],
+        "answer": "has hired",
+        "explanation": "「has hired」は最近行われ、現在に関連する動作を示します。"
+    },
+    {
+        "id": 10,
+        "question": "The proposal was rejected because it lacked __________ details.",
+        "options": ["necessary", "necessity", "necessarily", "necessitate"],
+        "answer": "necessary",
+        "explanation": "「necessary」は「details」を修飾する正しい形容詞です。"
+    },
+    {
+        "id": 11,
+        "question": "The marketing team developed an innovative strategy to __________ customer engagement.",
+        "options": ["increase", "decrease", "ignore", "avoid"],
+        "answer": "increase",
+        "explanation": "「increase」は顧客エンゲージメントの改善を意味し、文脈に合います。"
+    },
+    {
+        "id": 12,
+        "question": "We need to review the report thoroughly to __________ any errors.",
+        "options": ["identify", "neglect", "cause", "create"],
+        "answer": "identify",
+        "explanation": "「identify」はエラーを見つけて認識することを意味し、文脈に合います。"
+    },
+    {
+        "id": 13,
+        "question": "The manager was impressed by the intern's __________ performance.",
+        "options": ["exceptional", "exception", "exceptionally", "except"],
+        "answer": "exceptional",
+        "explanation": "「exceptional」はパフォーマンスを修飾する正しい形容詞です。"
+    },
+    {
+        "id": 14,
+        "question": "The sales department is responsible for __________ revenue goals each quarter.",
+        "options": ["achieving", "reducing", "exceeding", "neglecting"],
+        "answer": "achieving",
+        "explanation": "「achieving」は目標を達成する文脈に合います。"
+    },
+    {
+        "id": 15,
+        "question": "The new regulations will __________ the way businesses operate in the region.",
+        "options": ["impact", "suspend", "harm", "delay"],
+        "answer": "impact",
+        "explanation": "「impact」は影響を与える、または影響することを意味し、文脈に適しています。"
+    },
+    {
+        "id": 16,
+        "question": "The hotel staff were __________ in accommodating our requests during the stay.",
+        "options": ["helpful", "helpless", "hesitant", "harmful"],
+        "answer": "helpful",
+        "explanation": "「helpful」は手助けする意欲があるスタッフを表す正しい形容詞です。"
+    },
+    {
+        "id": 17,
+        "question": "The new policy will __________ all employees starting next month.",
+        "options": ["affect", "effect", "affecting", "affected"],
+        "answer": "affect",
+        "explanation": "「affect」は影響や作用を与えることを意味し、文脈に合います。"
+    },
+    {
+        "id": 18,
+        "question": "The conference provided an opportunity to __________ ideas with professionals in the field.",
+        "options": ["exchange", "replace", "eliminate", "postpone"],
+        "answer": "exchange",
+        "explanation": "「exchange」は他者とアイデアを共有する文脈に適しています。"
+    },
+    {
+        "id": 19,
+        "question": "Customers were impressed by the product's __________ quality.",
+        "options": ["superior", "superficial", "inferior", "insufficient"],
+        "answer": "superior",
+        "explanation": "「superior」は優れている、または他より良いことを意味し、文脈に合います。"
+    },
+    {
+        "id": 20,
+        "question": "The deadline for submitting applications has been __________ by one week.",
+        "options": ["extended", "reduced", "canceled", "ignored"],
+        "answer": "extended",
+        "explanation": "「extended」は締切を延長することを意味し、文脈に適しています。"
+    },
+    {
+        "id": 21,
+        "question": "The factory operates at full __________ to meet the growing demand.",
+        "options": ["capacity", "capability", "capture", "capital"],
+        "answer": "capacity",
+        "explanation": "「capacity」は何かが生産または保持できる最大量を示します。"
+    },
+    {
+        "id": 22,
+        "question": "The seminar focused on strategies to __________ productivity in the workplace.",
+        "options": ["boost", "reduce", "avoid", "ignore"],
+        "answer": "boost",
+        "explanation": "「boost」は増加や改善を意味し、職場での生産性向上の文脈に適しています。"
+    },
+    {
+        "id": 23,
+        "question": "The new employee demonstrated exceptional __________ during the training session.",
+        "options": ["skills", "skillful", "skillfully", "skillfulness"],
+        "answer": "skills",
+        "explanation": "「skills」は能力を示す正しい複数形の名詞です。"
+    },
+    {
+        "id": 24,
+        "question": "The project was delayed due to __________ weather conditions.",
+        "options": ["adverse", "advanced", "advantage", "adventurous"],
+        "answer": "adverse",
+        "explanation": "「adverse」は不利または有害を意味し、天候の文脈に合います。"
+    },
+    {
+        "id": 25,
+        "question": "The manager decided to __________ the meeting until next week.",
+        "options": ["postpone", "prepare", "predict", "promote"],
+        "answer": "postpone",
+        "explanation": "「postpone」は延期することを意味し、文脈に適しています。"
+    },
+    {
+        "id": 26,
+        "question": "The company offers __________ benefits to all its employees.",
+        "options": ["generous", "generosity", "generously", "generousness"],
+        "answer": "generous",
+        "explanation": "「generous」は福利厚生を修飾する正しい形容詞です。"
+    },
+    {
+        "id": 27,
+        "question": "To ensure success, the team must __________ all aspects of the project.",
+        "options": ["evaluate", "neglect", "oppose", "ignore"],
+        "answer": "evaluate",
+        "explanation": "「evaluate」は慎重に調査や評価することを意味し、文脈に合います。"
+    },
+    {
+        "id": 28,
+        "question": "The CEO made an inspiring __________ during the annual meeting.",
+        "options": ["speech", "speak", "speaking", "speaker"],
+        "answer": "speech",
+        "explanation": "「speech」は正式なスピーチを示す正しい名詞です。"
+    },
+    {
+        "id": 29,
+        "question": "The museum attracts visitors from around the world due to its __________ exhibits.",
+        "options": ["unique", "usual", "uniform", "universal"],
+        "answer": "unique",
+        "explanation": "「unique」は唯一無二を意味し、文脈に合います。"
+    },
+    {
+        "id": 30,
+        "question": "We need to __________ a new strategy to improve customer satisfaction.",
+        "options": ["develop", "decline", "deny", "delay"],
+        "answer": "develop",
+        "explanation": "「develop」は作成または計画することを意味し、文脈に適しています。"
+    },
+    {
+        "id": 31,
+        "question": "Employees are required to __________ their ID cards at the reception desk.",
+        "options": ["present", "presenting", "presented", "presents"],
+        "answer": "present",
+        "explanation": "「present」は何かを見せることを意味する正しい動詞形です。"
+    },
+    {
+        "id": 32,
+        "question": "The report provides __________ insights into market trends.",
+        "options": ["valuable", "value", "valuation", "valid"],
+        "answer": "valuable",
+        "explanation": "「valuable」は「insights」を修飾する正しい形容詞です。"
+    },
+    {
+        "id": 33,
+        "question": "The sales manager __________ the new marketing strategy during the meeting.",
+        "options": ["explained", "explaining", "explains", "explanation"],
+        "answer": "explained",
+        "explanation": "「explained」は過去形の動詞で、行動を表す正しい形です。"
+    },
+    {
+        "id": 34,
+        "question": "The company is committed to __________ high-quality services to its clients.",
+        "options": ["providing", "provide", "provides", "provided"],
+        "answer": "providing",
+        "explanation": "「providing」は「committed to」の後に必要な動名詞形です。"
+    },
+    {
+        "id": 35,
+        "question": "The contract must be signed __________ the end of the month.",
+        "options": ["by", "on", "in", "at"],
+        "answer": "by",
+        "explanation": "「by」は締切を示すため、文脈に適しています。"
+    },
+    {
+        "id": 36,
+        "question": "The technician will arrive __________ the morning to fix the issue.",
+        "options": ["in", "on", "at", "by"],
+        "answer": "in",
+        "explanation": "「in the morning」は正しい前置詞句です。"
+    },
+    {
+        "id": 37,
+        "question": "The product launch was a __________ success, exceeding all expectations.",
+        "options": ["tremendous", "tremble", "tremendously", "trembling"],
+        "answer": "tremendous",
+        "explanation": "「tremendous」は成功を修飾する正しい形容詞です。"
+    },
+    {
+        "id": 38,
+        "question": "The new training program aims to __________ employees’ professional skills.",
+        "options": ["improve", "remove", "replace", "decrease"],
+        "answer": "improve",
+        "explanation": "「improve」はスキルの向上を意味し、文脈に適しています。"
+    },
+    {
+        "id": 39,
+        "question": "The committee decided to __________ the budget proposal after a lengthy discussion.",
+        "options": ["approve", "oppose", "reject", "delay"],
+        "answer": "approve",
+        "explanation": "「approve」は承認または合意することを意味し、文脈に合います。"
+    },
+    {
+        "id": 40,
+        "question": "Customers who spend over $100 will receive a __________ gift.",
+        "options": ["complimentary", "complain", "completion", "compatible"],
+        "answer": "complimentary",
+        "explanation": "「complimentary」は無料またはサービスとして提供されることを意味します。"
+    },
+    {
+        "id": 41,
+        "question": "The store has introduced a loyalty program to __________ customer retention.",
+        "options": ["encourage", "discourage", "prevent", "interrupt"],
+        "answer": "encourage",
+        "explanation": "「encourage」は顧客維持を促進することを意味し、文脈に適しています。"
+    },
+    {
+        "id": 42,
+        "question": "__________ he was tired, he continued working on the project.",
+        "options": ["Although", "Despite", "Because", "However"],
+        "answer": "Although",
+        "explanation": "「Although」は対比を導入するため、文脈に適しています。"
+    },
+    {
+        "id": 43,
+        "question": "Please make sure to __________ all the documents before the meeting.",
+        "options": ["prepare", "preparation", "preparing", "prepares"],
+        "answer": "prepare",
+        "explanation": "「prepare」は指示を示す正しい動詞形です。"
+    },
+    {
+        "id": 44,
+        "question": "The manager asked his team to __________ the potential risks involved in the project.",
+        "options": ["assess", "avoid", "assist", "assert"],
+        "answer": "assess",
+        "explanation": "「assess」は評価することを意味し、リスク分析の文脈に適しています。"
+    },
+    {
+        "id": 45,
+        "question": "The company is considering several options to __________ its market presence.",
+        "options": ["expand", "reduce", "delete", "eliminate"],
+        "answer": "expand",
+        "explanation": "「expand」は市場の存在を拡大することを意味し、文脈に合います。"
+    },
+    {
+        "id": 46,
+        "question": "The decision to relocate the office was __________ after extensive discussion.",
+        "options": ["made", "make", "making", "makes"],
+        "answer": "made",
+        "explanation": "「made」は完了した行動を示す正しい過去分詞形です。"
+    },
+    {
+        "id": 47,
+        "question": "The employees were __________ about the changes in company policy.",
+        "options": ["informed", "inform", "informing", "information"],
+        "answer": "informed",
+        "explanation": "「informed」は伝えられた、または通知されたことを意味します。"
+    },
+    {
+        "id": 48,
+        "question": "The new marketing campaign is expected to __________ significant results.",
+        "options": ["generate", "reduce", "ignore", "decrease"],
+        "answer": "generate",
+        "explanation": "「generate」は生成することを意味し、結果の文脈に適しています。"
+    },
+    {
+        "id": 49,
+        "question": "The team has been working hard to __________ the project deadline.",
+        "options": ["meet", "meeting", "meets", "met"],
+        "answer": "meet",
+        "explanation": "「meet」は達成する、または満たすことを意味し、締切の文脈に合います。"
+    },
+    {
+        "id": 50,
+        "question": "The company's new initiative aims to __________ environmental sustainability.",
+        "options": ["promote", "prevent", "neglect", "delay"],
+        "answer": "promote",
+        "explanation": "「promote」は支持または進展させることを意味し、環境の持続可能性の文脈に適しています。"
+    },
+    {
+        "id": 51,
+        "question": "The manager was impressed by how quickly the team __________ the new software.",
+        "options": ["adapted to", "adapt", "adapting", "adapts"],
+        "answer": "adapted to",
+        "explanation": "過去形「adapted to」は、「was impressed」という過去形の文脈と時制を一致させています。また、熟語「adapt to」は『～に適応する』を意味します。"
+    },
+    {
+        "id": 52,
+        "question": "__________ he works efficiently, his reports often contain small errors.",
+        "options": ["Although", "However", "Therefore", "Meanwhile"],
+        "answer": "Although",
+        "explanation": "接続詞「Although」は逆接を導入し、主節『his reports often contain small errors』との対比を示します。"
+    },
+    {
+        "id": 53,
+        "question": "The newly released smartphone features __________ that make it ideal for business users.",
+        "options": ["enhancements", "enhancing", "enhance", "enhanced"],
+        "answer": "enhancements",
+        "explanation": "名詞「enhancements」は「features」の目的語となり、スマートフォンに追加された機能向上を意味します。"
+    },
+    {
+        "id": 54,
+        "question": "The workshop is scheduled to __________ place next Wednesday at the main auditorium.",
+        "options": ["take", "takes", "taking", "taken"],
+        "answer": "take",
+        "explanation": "不定詞「to take place」は「行われる」という意味の慣用句であり、文法的に正しい形です。"
+    },
+    {
+        "id": 55,
+        "question": "The executive provided a comprehensive summary __________ the meeting to ensure everyone was informed.",
+        "options": ["after", "during", "before", "on"],
+        "answer": "after",
+        "explanation": "「after」は『～の後に』を意味し、過去形「provided」に続く時間関係を示します。"
+    },
+    {
+        "id": 56,
+        "question": "In order to meet customer demands, the factory increased production __________ 20%.",
+        "options": ["by", "to", "of", "in"],
+        "answer": "by",
+        "explanation": "「by」は増加や減少の割合を示す前置詞であり、『20%増加』という意味になります。"
+    },
+    {
+        "id": 57,
+        "question": "The company’s performance was __________ affected by the slowdown in the global economy.",
+        "options": ["negatively", "negative", "negate", "negating"],
+        "answer": "negatively",
+        "explanation": "副詞「negatively」は動詞「affected」を修飾し、『悪影響を受けた』ことを示します。"
+    },
+    {
+        "id": 58,
+        "question": "The final decision on the merger will __________ heavily on the board’s approval.",
+        "options": ["depend", "depends", "dependent", "depending"],
+        "answer": "depend",
+        "explanation": "助動詞「will」の後には動詞の原形「depend」が続きます。「depend on」は『～に依存する』を意味します。"
+    },
+    {
+        "id": 59,
+        "question": "Several employees have __________ concerns about the new evaluation system.",
+        "options": ["raised", "rose", "raising", "raise"],
+        "answer": "raised",
+        "explanation": "「have + 過去分詞」の現在完了形が使われ、動作が完了し、現在に関連していることを示します。「raise concerns」で『懸念を提起する』という意味です。"
+    },
+    {
+        "id": 60,
+        "question": "To increase efficiency, the company introduced new tools __________ data analysis.",
+        "options": ["for", "on", "to", "with"],
+        "answer": "for",
+        "explanation": "「for」は目的や用途を示し、『データ分析のためのツール』という意味になります。"
+    },
+    {
+        "id": 61,
+        "question": "The product design was modified __________ feedback from customer surveys.",
+        "options": ["based on", "according", "relying", "resulted"],
+        "answer": "based on",
+        "explanation": "「based on」は『～に基づいて』という意味の熟語であり、文脈に適しています。"
+    },
+    {
+        "id": 62,
+        "question": "The instructions were not clear, and many employees were __________ about what to do next.",
+        "options": ["confused", "confusing", "confuse", "confusion"],
+        "answer": "confused",
+        "explanation": "形容詞「confused」は受動的な意味を持ち、『混乱している』状態を示します。"
+    },
+    {
+        "id": 63,
+        "question": "We will need to __________ the contract details before making a final decision.",
+        "options": ["review", "revise", "reject", "retain"],
+        "answer": "review",
+        "explanation": "動詞の原形「review」は、決定の前に『詳細を確認する』という意味を持ちます。"
+    },
+    {
+        "id": 64,
+        "question": "The company is proud to announce its __________ as a leader in renewable energy solutions.",
+        "options": ["position", "possession", "positional", "possess"],
+        "answer": "position",
+        "explanation": "名詞「position」は『地位・立場』を意味し、リーダーとしての役割を示します。"
+    },
+    {
+        "id": 65,
+        "question": "All staff members are required to __________ to the updated safety protocols.",
+        "options": ["adhere", "adapt", "advance", "admit"],
+        "answer": "adhere",
+        "explanation": "「adhere to」は『～に従う』という意味の熟語です。義務を示す文脈に適しています。"
+    },
+    {
+        "id": 66,
+        "question": "The company has been __________ its operations to align with new environmental regulations.",
+        "options": ["streamlining", "streamlined", "streams", "streamline"],
+        "answer": "streamlining",
+        "explanation": "「has been + 現在分詞」の形は現在完了進行形を示し、『業務の効率化が継続している』ことを表します。"
+    },
+    {
+        "id": 67,
+        "question": "The team leader asked the members to __________ their progress during the weekly meeting.",
+        "options": ["report", "reported", "reporting", "reports"],
+        "answer": "report",
+        "explanation": "「to + 動詞の原形」の不定詞形が「asked」の目的語として正しい文法構造です。"
+    },
+    {
+        "id": 68,
+        "question": "The factory manager emphasized the importance of __________ maintenance schedules regularly.",
+        "options": ["following", "follow", "followed", "follows"],
+        "answer": "following",
+        "explanation": "動名詞「following」は「the importance of」の後に続く形で、メンテナンスを実行する重要性を示します。"
+    },
+    {
+        "id": 69,
+        "question": "If the issue persists, please __________ our technical support team for further assistance.",
+        "options": ["contact", "contacts", "contacted", "contacting"],
+        "answer": "contact",
+        "explanation": "「please + 動詞の原形」は指示や依頼を示す正しい形式です。"
+    },
+    {
+        "id": 70,
+        "question": "The deadline was extended to give the team more time to __________ their report.",
+        "options": ["complete", "completed", "completing", "completes"],
+        "answer": "complete",
+        "explanation": "「to + 動詞の原形」の不定詞が目的を示し、『報告書を完成させる』ための時間を示します。"
+    },
+    {
+        "id": 71,
+        "question": "The conference has been postponed __________ further notice.",
+        "options": ["until", "for", "to", "by"],
+        "answer": "until",
+        "explanation": "「until further notice」は『次の通知があるまで』という慣用表現です。"
+    },
+    {
+        "id": 72,
+        "question": "Employees who __________ exceptional performance will be recognized at the annual awards ceremony.",
+        "options": ["demonstrate", "demonstrates", "demonstrated", "demonstrating"],
+        "answer": "demonstrate",
+        "explanation": "関係代名詞節の主語が複数形「Employees」のため、動詞は「demonstrate」の原形が正しいです。"
+    },
+    {
+        "id": 73,
+        "question": "The IT department is working __________ to resolve the network issue as soon as possible.",
+        "options": ["diligently", "diligent", "diligence", "diligently's"],
+        "answer": "diligently",
+        "explanation": "副詞「diligently」は動詞「is working」を修飾し、『熱心に作業している』ことを示します。"
+    },
+    {
+        "id": 74,
+        "question": "The new software update was designed to __________ overall system performance.",
+        "options": ["improve", "improving", "improves", "improved"],
+        "answer": "improve",
+        "explanation": "「to + 動詞の原形」は目的を示す不定詞として使われ、『システムの性能を向上させる』目的を表します。"
+    },
+    {
+        "id": 75,
+        "question": "The supplier assured us that the shipment would arrive __________ schedule.",
+        "options": ["on", "in", "at", "by"],
+        "answer": "on",
+        "explanation": "「on schedule」は『予定通り』という意味の慣用表現です。"
+    },
+    {
+        "id": 76,
+        "question": "The director expressed her gratitude __________ the team’s dedication and hard work.",
+        "options": ["for", "to", "at", "with"],
+        "answer": "for",
+        "explanation": "「gratitude for」は『～への感謝』を示す正しい前置詞の使い方です。"
+    },
+    {
+        "id": 77,
+        "question": "The project is currently __________ at its final stage and will be completed soon.",
+        "options": ["being", "to be", "been", "is"],
+        "answer": "being",
+        "explanation": "現在進行形「is being」は受動態と組み合わされ、『最終段階にある』ことを示します。"
+    },
+    {
+        "id": 78,
+        "question": "The marketing campaign __________ increased sales in just a few weeks.",
+        "options": ["generated", "generates", "generate", "generating"],
+        "answer": "generated",
+        "explanation": "過去形「generated」は『数週間で売り上げを増加させた』という過去の事実を示します。"
+    },
+    {
+        "id": 79,
+        "question": "The candidate’s resume __________ several years of relevant experience.",
+        "options": ["highlights", "highlight", "highlighted", "highlighting"],
+        "answer": "highlights",
+        "explanation": "主語「resume」は三人称単数のため、動詞「highlights」に三単現の「s」が必要です。"
+    },
+    {
+        "id": 80,
+        "question": "The analyst provided a detailed explanation __________ the recent market trends.",
+        "options": ["of", "on", "to", "at"],
+        "answer": "of",
+        "explanation": "「explanation of」は『～についての説明』を示す正しい前置詞です。"
+    },
+    {
+        "id": 81,
+        "question": "The company has decided to __________ its customer service department to handle increased demand.",
+        "options": ["expand", "expanding", "expands", "expanded"],
+        "answer": "expand",
+        "explanation": "不定詞「to expand」が動詞「decided」の目的語となり、『～を拡大する』ことを示します。"
+    },
+    {
+        "id": 82,
+        "question": "The presentation must be __________ to fit within the allocated time frame.",
+        "options": ["shortened", "shortening", "shorten", "shortens"],
+        "answer": "shortened",
+        "explanation": "助動詞「must」の後には動詞の原形「be」が続き、その後に過去分詞「shortened」が受動態を形成します。"
+    },
+    {
+        "id": 83,
+        "question": "The new guidelines require all employees to __________ safety training annually.",
+        "options": ["complete", "completing", "completed", "completes"],
+        "answer": "complete",
+        "explanation": "「to + 動詞の原形」の不定詞が動詞「require」の目的語として使われます。"
+    },
+    {
+        "id": 84,
+        "question": "__________ its innovative design, the product has received positive feedback from customers.",
+        "options": ["Because of", "Despite", "Although", "In addition to"],
+        "answer": "Because of",
+        "explanation": "「Because of」は原因や理由を示し、『その革新的なデザインのために』という意味を表します。"
+    },
+    {
+        "id": 85,
+        "question": "The project team is __________ to complete the first phase by the end of this month.",
+        "options": ["expected", "expecting", "expects", "expectedly"],
+        "answer": "expected",
+        "explanation": "受動態「is expected」は『～と期待されている』ことを示し、計画を表します。"
+    },
+    {
+        "id": 86,
+        "question": "The new manager’s approach __________ improved communication between departments.",
+        "options": ["has resulted in", "resulted", "results", "resulting"],
+        "answer": "has resulted in",
+        "explanation": "現在完了形「has resulted in」は『～という結果をもたらした』という意味で、過去から現在に続く影響を示します。"
+    },
+    {
+        "id": 87,
+        "question": "The board meeting was postponed __________ a scheduling conflict.",
+        "options": ["due to", "because", "despite", "instead of"],
+        "answer": "due to",
+        "explanation": "「due to」は原因や理由を表す前置詞で、『スケジュールの衝突のために』を示します。"
+    },
+    {
+        "id": 88,
+        "question": "The HR department is responsible for __________ new company policies to employees.",
+        "options": ["explaining", "explain", "explains", "explained"],
+        "answer": "explaining",
+        "explanation": "動名詞「explaining」は前置詞「for」の後に続く形として正しいです。"
+    },
+    {
+        "id": 89,
+        "question": "The software automatically saves all changes __________ the user exits the program.",
+        "options": ["before", "until", "while", "after"],
+        "answer": "before",
+        "explanation": "「before」は『～する前に』を意味し、プログラム終了前の動作を示します。"
+    },
+    {
+        "id": 90,
+        "question": "The candidate is highly qualified and __________ experience in project management.",
+        "options": ["has", "having", "have", "had"],
+        "answer": "has",
+        "explanation": "主語「The candidate」が三人称単数なので、動詞「has」の三単現が適切です。"
+    },
+    {
+        "id": 91,
+        "question": "The team successfully __________ the project ahead of schedule.",
+        "options": ["completed", "completes", "completing", "completion"],
+        "answer": "completed",
+        "explanation": "過去形「completed」は、成功した過去の出来事を示しています。"
+    },
+    {
+        "id": 92,
+        "question": "The company’s profits have steadily __________ over the past three years.",
+        "options": ["increased", "increasing", "increase", "increases"],
+        "answer": "increased",
+        "explanation": "現在完了形「have increased」は過去から現在までの継続的な変化を示します。"
+    },
+    {
+        "id": 93,
+        "question": "The CEO delivered an inspiring speech __________ motivated the entire workforce.",
+        "options": ["that", "who", "which", "whom"],
+        "answer": "that",
+        "explanation": "関係代名詞「that」は、先行詞「speech」を修飾し、『～なスピーチ』を示します。"
+    },
+    {
+        "id": 94,
+        "question": "Our team has been working hard __________ the quality of our products.",
+        "options": ["to improve", "improving", "improve", "improved"],
+        "answer": "to improve",
+        "explanation": "不定詞「to improve」は目的を表し、『製品の品質を改善するため』を示します。"
+    },
+    {
+        "id": 95,
+        "question": "The training program aims to provide participants with __________ skills.",
+        "options": ["practical", "practically", "practice", "practiced"],
+        "answer": "practical",
+        "explanation": "形容詞「practical」は名詞「skills」を修飾し、『実用的なスキル』を意味します。"
+    },
+    {
+        "id": 96,
+        "question": "The supervisor encouraged the team __________ their progress regularly.",
+        "options": ["to report", "report", "reporting", "reported"],
+        "answer": "to report",
+        "explanation": "「encourage + 人 + to 不定詞」の形で『～するよう促す』という意味になります。"
+    },
+    {
+        "id": 97,
+        "question": "Employees are required to arrive __________ time for the meeting.",
+        "options": ["on", "at", "in", "with"],
+        "answer": "on",
+        "explanation": "「on time」は『時間通りに』を意味する慣用表現です。"
+    },
+    {
+        "id": 98,
+        "question": "The manager reviewed the document carefully before __________ it to the client.",
+        "options": ["sending", "send", "sends", "sent"],
+        "answer": "sending",
+        "explanation": "前置詞「before」の後には動名詞「sending」が続きます。"
+    },
+    {
+        "id": 99,
+        "question": "The presentation was so engaging that the audience __________ throughout the session.",
+        "options": ["remained", "remains", "remaining", "remain"],
+        "answer": "remained",
+        "explanation": "過去形「remained」は、過去の状況を表し、『聴衆がセッション中ずっと集中していた』ことを示します。"
+    },
+    {
+        "id": 100,
+        "question": "The new employee quickly adapted __________ the team’s workflow.",
+        "options": ["to", "in", "on", "at"],
+        "answer": "to",
+        "explanation": "「adapt to」は『～に適応する』という意味の熟語です。"
+    }
+]

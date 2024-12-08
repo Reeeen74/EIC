@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.score-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.score-box {
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.excellent {
+    background-color: #4CAF50; /* 緑色 */
+}
+
+.great {
+    background-color: #2196F3; /* 青色 */
+}
+
+.good {
+    background-color: #FFC107; /* 黄色 */
+}
+
+.improve {
+    background-color: #F44336; /* 赤色 */
+}
+
+.question-result {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.retry-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.retry-btn:hover {
+    background-color: #45a049;
+}
